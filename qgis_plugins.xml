@@ -7,7 +7,7 @@
     <homepage>https://github.com/fassa-atr/Install_Module_Python</homepage>
     <qgis_minimum_version>2.2</qgis_minimum_version>
     <file_name>Controle_Des_Design.zip</file_name>
-    <download_url>https://github.com/fassa-atr/Install_Module_Python/blob/master/Controle_Des_Design.zip?raw=true</download_url>
+    <download_url>https://github.com/fassa-atr/Install_Module_Python/raw/master/Controle_Des_Design.zip</download_url>
     <author_name>Damián Silvani</author_name>
     <experimental>True</experimental>
     <deprecated>False</deprecated>
