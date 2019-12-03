@@ -1,18 +1,22 @@
-<?xml version="1.0"?>
-<plugins>
+<?xml version = "1.0" encoding="UTF-8"?> 
+<plugins> 
+
+ <pyqgis_plugin  name = "SwapVectorDirection"  version = "0.1" > 
+     <description> Convertissez les fichiers dentre en fichiers de formes FiberPlanIT en sortie </description> 
+     <homepage> https://github.com/fassa-atr/Install_Module_Python </homepage> 
+     <qgis_minimum_version> 3.4 </qgis_minimum_version> 
+     <nom_fichier> SwapVectorDirection.zip </nom_fichier> 
+     <nom_auteur> FASSA > </nom_auteur> 
+     <download_url> http://fassa-atr.github.io/Install_Module_Python/SwapVectorDirection.zip </download_url>
+ </pyqgis_plugin> 
  
-  <pyqgis_plugin name="Massive Change Detection" version="0.1.0">
-    <description>Change detection algorithms for urban planning</description>
-    <version>0.1.0</version>
-    <homepage>https://github.com/fassa-atr/Install_Module_Python</homepage>
-    <qgis_minimum_version>2.2</qgis_minimum_version>
-    <file_name>Controle_Des_Design.zip</file_name>
-    <download_url>https://github.com/fassa-atr/Install_Module_Python/raw/master/Controle_Des_Design.zip</download_url>
-    <author_name>Damián Silvani</author_name>
-    <experimental>True</experimental>
-    <deprecated>False</deprecated>
-    <repository>https://github.com/fassa-atr/Install_Module_Python</repository>
-    <tags>dymaxion,urban planning,change detection</tags>
-  </pyqgis_plugin>
+ <pyqgis_plugin  name = "Controle_Des_Design"  version = "0.1" > 
+     <description> </description> 
+     <homepage> https://github.com/fassa-atr/Install_Module_Python </homepage> 
+     <qgis_minimum_version> 3.4 </qgis_minimum_version> 
+     <nom_fichier> Controle_Des_Design.zip </nom_fichier> 
+     <nom_auteur> FASSA > </nom_auteur> 
+     <download_url> https://fassa-atr.github.io/Install_Module_Python/Controle_Des_Design.zip </download_url>
+ </pyqgis_plugin> 
  
 </plugins>
